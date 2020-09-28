@@ -7,5 +7,5 @@ THEN that will be shown on the page, and added to their transaction history when
 
 https://git.heroku.com/calm-meadow-12466.git
 
-![](BT)
-![](BTT)
+![](BT.png)
+![](BTT.png)
